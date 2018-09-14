@@ -1,0 +1,22 @@
+body
+  {
+  background-color: #66FFFF;
+
+}
+a {
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: #66FFFF;
+  background-color: #33FF00;
+
+}
+p {
+  border: 5px solid green;
+  padding: 10px;
+  margin: 10px;
+  height: 825px;
+  length: 500px;
+  width: 300px;
+}
